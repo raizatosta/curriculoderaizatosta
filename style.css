@@ -4,11 +4,11 @@
     box-sizing: border-box;
 }
 header{
-    background-color: rgb(234, 19, 162);
+    background-color: rgb(190, 89, 155);
 }
 body{
     text-align: center;
-    background-color: rgb(234, 19, 220);
+    background-color: rgb(239, 139, 232);
 }
 figure{
     text-align: center;
@@ -17,28 +17,28 @@ figure{
 }
 h1{
     text-align: center;
-    color: white;
-    border: 3px solid white;
+    color: black;
+    border: 3px solid black;
 }
 h2{
     text-align: center;
-    color: white;
-    border: 3px solid white;
+    color: black;
+    border: 3px solid black;
 }
 h3{
     text-align: center;
-    color: white;
-    border: 3px solid white;
+    color: black;
+    border: 3px solid black;
 }
 table{
-    border: 3px solid white;
+    border: 3px solid black;
 }
 footer{
     color: white(--text-color);
-    background-color: rgb(234, 19, 162);
+    background-color: rgb(190, 89, 155);
 }
 p{
-    color: white;
+    color: black;
 }
 /*Responsividade PC*/
 @media (max-width: 1200px){
